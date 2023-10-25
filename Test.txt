@@ -1,1 +1,1 @@
-well come to git practice
+well come to git practice in the next video will learn add, commit,push commands.
